@@ -9,5 +9,5 @@ main()
 
 
 function haha(){
-	
+	console.log('co gi dau ma cuoi')
 }
